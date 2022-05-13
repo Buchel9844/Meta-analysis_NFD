@@ -1,0 +1,31 @@
+First.Author,Year,Kingdom,Initial.Definition,Model.use,lab.OR.field,count,unique.com
+Bimler,2018,Annual plant,Bimler,AP2,field,12,6
+Godoy,2014,Annual plant,Godoy,APM,field,153,153
+Godoy & Levine,2014,Annual plant,Godoy,APM,field,15,15
+Germain,2016,Annual plant,Godoy,APM,field,36,20
+Rey,2017,Annual plant,Godoy,APM,field,2,1
+Hallet,2018,Annual plant,Godoy,APM,field,15,15
+Lanuza,2018,Annual plant,Godoy,APM,field,15,15
+Matias,2018,Annual plant,Godoy,APM,field,45,45
+Petry,2018,Annual plant,Godoy,APM,field,55,55
+Wainwright,2018,Annual plant,Godoy,APM,field,24,6
+Siefert,2018,Annual plant,Adler,APM,lab,12,6
+Blackford,2020,Annual plant,Godoy,APM,lab,1,1
+Armitage,2019,Annual plant,Chesson,Lotka Volterra,lab,1,1
+Ke,2019,Annual plant,Chesson,Lotka Volterra,lab,3,3
+Ocampo,2018,Annual plant,Carroll,None,lab,1,1
+Zhang,2019,Annual plant,Saavedra,APM,Mesocosm,39,39
+Tan,2016,Bacteria,Carroll,None,lab,7,7
+Grainger,2019,Bacteria,Carroll,None,lab,32,6
+Li,2019,Bacteria,Carroll,None,lab,24,24
+Zhao,2016,Bacteria,Zhao,None,lab,65,65
+Cardinaux,2018,Perennial plant,Godoy,APM,field,8,4
+Verseglou,2018,Perennial plant,Chesson,Lotka Volterra,lab,28,28
+Adler,2018,Perennial plant,Chesson 00,NA,NA,255,115
+Narwani,2013,Phytoplankton,Carroll,None,lab,27,27
+Venail,2014,Phytoplankton,Carroll,None,lab,27,27
+Gallego,2019,Phytoplankton,Carroll,None,lab,15,1
+Jackrel,2020,Phytoplankton,Carroll,None,lab,99,8
+Jia,2020,Phytoplankton,Carroll,None,lab,1,1
+Spaak,2021,Phytoplankton,Spaak,none,lab,1,1
+Total,NA,,,NA,NA,1018,696
