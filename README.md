@@ -23,7 +23,7 @@ Second the quantitative parameters computed by the authors:
 •	"ND" - "FD" : the niche and fitness difference computed by the authors;
 •	"ND_Zhao" -  "FD_Zhao" - "Zhao_Coex" : the niche and fitness difference computed by Zhao & al, 2016. 
 
-To not share data that do not belong to us, you can find a subset of this dataframe called "Data/NFD_meta.csv", without the quantitative parameters originally computed by the authors. In this dataset you can find the NFD computed with the file “ComputeDefinition_and_approximation.R”. Additionally a summary of all the data collected can be find under "Data/NFD_meta.recap.csv"
+To not share data that do not belong to us, you can find a subset of this dataframe called "Data/NFD_meta_subset.csv", without the quantitative parameters originally computed by the authors. In this dataset you can find the NFD computed with the file “ComputeDefinition_and_approximation.R”. Additionally a summary of all the data collected can be find under "Data/NFD_meta.recap.csv". 
 
 (2) The computation of Spaak & al, 2020 definition and its approximation can be find under “ComputeDefinition_and_approximation.R”. 
 It calls 4 others scripts:
