@@ -1,5 +1,5 @@
 Meta-analysis_NFD
-Codes of the manuscript "Niche differences, not fitness differences, explain predicted coexistence across ecological groups" by Lisa Buche, Jürg Spaak, Javier Javillo and Frederik De Laender. 
+Codes of the manuscript "Niche differences, not fitness differences, explain predicted coexistence across ecological groups" by Lisa Buche, Jürg Spaak, Javier Javillo and Frederik De Laender. Also available on Zenodo: DOI- 10.5281/zenodo.6998933
 
 (1) The data collection and how it was extracted from each paper can be found under "ExtractionData.R". We gathered 29 independent data-sets corresponding to 1018 communities (Appendix, section A.1, Tab S4 in the manuscript). For each article, we extracted all species-specific growth parameters available (competition coefficient, sensitivity, intrinsic growth rate, invasion growth rate, etc.) and the outcome of species interaction, i.e. coexistence, competitive exclusion or priority effects. The ExtractionData.R will create a data.frame "NFD_meta", containing the different columns of 2 differents classes, first the informations concerning the community: 
 •	"First.Author": the first author of the paper in which we found the community;
