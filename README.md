@@ -35,20 +35,18 @@ It calls 4 others scripts:
 The 3 last ones, are based on the python script : "numerical_NFD.py"
 
 (3) The clustering analysis can be find under the "Metaanalysis_clusters_final.R" and "StatisticalTest_meta_clusters_final.R".
-![image](https://user-images.githubusercontent.com/60778585/157350475-d44536ae-4fe5-4eff-b8a6-e01ec2ceeebe.png)
 
-Files and what they do:
-clustering_number_of_clusters.py
+(4) clustering_number_of_clusters.py
 	Computes the clustering and estimate niche and fitness differences for where this is not known
 
-plot_data_comp_outcome.py
+(5) plot_data_comp_outcome.py
 	Plot figure 1
 
-plot_clusters.py
+(6) plot_clusters.py
 	Plots figure 2
 
-plot_correlation_study_size_coexistence.py
+(7) plot_correlation_study_size_coexistence.py
 	Create figure S2
 
-plot_number_of_clusters.py
+(8) plot_number_of_clusters.py
 	Plots figure S3
